@@ -23,7 +23,7 @@ const Hero = () => {
           <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
             <span className="block animate-slideInLeft">Hello, I'm</span>
             <span className="block bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent animate-slideInRight animation-delay-500">
-              Sumit lavdya
+              Sumit Pathrabe
             </span>
           </h1>
           
