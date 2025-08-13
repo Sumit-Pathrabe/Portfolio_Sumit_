@@ -42,25 +42,24 @@ const About = () => {
                 Passionate Developer & Designer
               </h3>
               <p className="text-gray-600 text-lg mb-6 leading-relaxed">
-                With over 5 years of experience in web development, I specialize in creating 
-                modern, responsive applications using cutting-edge technologies. My journey 
-                started with a curiosity for how things work on the web, and it has evolved 
-                into a passion for crafting exceptional digital experiences.
+                Various Project bulit around the field of Data science and enhanacing their workflow
+                using Machine learning that's a part of me.Ready for various projects and jobs related
+                to data science and Ml Engineering.
               </p>
               <p className="text-gray-600 text-lg mb-8 leading-relaxed">
                 I believe in the power of clean, semantic code and thoughtful design. Whether 
-                it's building a complex web application or designing an intuitive user interface, 
+                it's building a complex DS Project or designing an intuitive user interface, 
                 I bring attention to detail and a user-first mindset to every project.
               </p>
               <div className="flex flex-wrap gap-4">
                 <span className="px-4 py-2 bg-blue-100 text-blue-800 rounded-full text-sm font-medium">
-                  React Expert
+                  Intermidiate level Data Interpreter
                 </span>
                 <span className="px-4 py-2 bg-purple-100 text-purple-800 rounded-full text-sm font-medium">
-                  UI/UX Designer
+                  Data Explorer
                 </span>
                 <span className="px-4 py-2 bg-green-100 text-green-800 rounded-full text-sm font-medium">
-                  Full Stack
+                  Ml Engineer
                 </span>
               </div>
             </div>
